@@ -1,0 +1,4 @@
+localhost
+Movie
+Ivana
+SQL
